@@ -1,4 +1,4 @@
-# age-of-flax-balance-patch
+# Age of Flax Tweaked
 Vintage Story patch mod that patches the [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make the values more balanced to vanilla
 
 
