@@ -8,8 +8,6 @@
                     "Tetromine"
                 ],
     "description":  "A mod that amplifies the process of extracting fibers from flax. Now with more balanced values than the original.",
-    "version":  "1.0.0",
-    "dependencies":  {
-                         "game":  "1.22.2"
-                     }
+    "version":  "1.0.1",
+    "dependencies": { }
 }
