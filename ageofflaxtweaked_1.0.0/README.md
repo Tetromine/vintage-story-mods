@@ -1,6 +1,12 @@
 # Age of Flax Tweaked
 Vintage Story patch mod that patches the [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make the values more balanced to vanilla
 
+### Vanilla drops
+| Value  | Vanilla | 
+| ------------- | ------------- |
+| flaxGrainDropAvg  | 3 |
+| flaxDropAvg  | 4 |
+| flaxSeedDropAvg  | 1.2 |
 
 ### Ripple drops (before)
 
@@ -31,10 +37,3 @@ Vintage Story patch mod that patches the [Age of Flax Fork](https://mods.vintage
 | ------------- | ------------- | ------------- | ------------- |
 | flaxDropAvg  | 4 | 5 | 6 |
 | flaxDropVar  | 1 | 1 | 1 |
-
-### Vanilla
-| Value  | Vanilla | 
-| ------------- | ------------- |
-| flaxGrainDropAvg  | 3 |
-| flaxDropAvg  | 4 |
-| flaxSeedDropAvg  | 1.2 |
