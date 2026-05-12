@@ -1,0 +1,138 @@
+[
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:patches/.+",
+    "path": "/-/dependsOn/modid=ageofflax/modid",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:patches/.+",
+    "path": "/-/dependsOn/modId=ageofflax/modId",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:patches/.+",
+    "path": "/-/dependsOn/modID=ageofflax/modID",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:patches/.+",
+    "path": "/-/dependsOn/ModID=ageofflax/ModID",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:jsonpatches/.+",
+    "path": "/-/dependsOn/modid=ageofflax/modid",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:jsonpatches/.+",
+    "path": "/-/dependsOn/modId=ageofflax/modId",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:jsonpatches/.+",
+    "path": "/-/dependsOn/modID=ageofflax/modID",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "priority": 10000,
+    "side": "universal",
+    "op": "replace",
+    "file": "@@[^:]+:jsonpatches/.+",
+    "path": "/-/dependsOn/ModID=ageofflax/ModID",
+    "value": "ageofflaxfork",
+    "dependsOn": [
+      {
+        "modId": "jsonpatcheslib"
+      },
+      {
+        "modId": "ageofflaxfork"
+      }
+    ]
+  }
+]
