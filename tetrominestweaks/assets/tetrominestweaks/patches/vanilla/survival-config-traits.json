@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/15/attributes/miningSpeedMul",
+    "value": -0.2,
+    "file": "game:config/traits.json"
+  },
+  {
+    "op": "replace",
+    "path": "/15/attributes/oreDropRate",
+    "value": -0.25,
+    "file": "game:config/traits.json"
+  }
+]
