@@ -6,6 +6,11 @@ Vintage Story mod that patches both vanilla and some mods for better balance.
 ### Hunter
 Nerfed **Claustrophobic** (-15% ore drop rate, -10% mining speed) -> (-25% ore drop rate, -20% mining speed)
 
+## Immersive Fibercraft
+Changes handbook entries for loom and spinning wheel include all methods of spinning twine and creating linen.
+
+## Knitting
+Tiny tweak to lang files.
 
 ## Age of Flax Fork
 Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make the values more balanced compared to vanilla.
@@ -46,6 +51,3 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 | ------------- | ------------- | ------------- | ------------- |
 | flaxDropAvg  | 4 | 5 | 6 |
 | flaxDropVar  | 1 | 1 | 1 |
-
-## Immersive Fibercraft
-Changes handbook entries for loom and spinning wheel include all methods of spinning twine and creating linen.
