@@ -46,3 +46,6 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 | ------------- | ------------- | ------------- | ------------- |
 | flaxDropAvg  | 4 | 5 | 6 |
 | flaxDropVar  | 1 | 1 | 1 |
+
+## Immersive Fibercraft
+Changes handbook entries for loom and spinning wheel include all methods of spinning twine and creating linen.

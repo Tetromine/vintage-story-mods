@@ -2,10 +2,10 @@
     "Type": "Content",
     "TextureSize": 32,
     "Name": "Tetromine's Tweaks",
-    "Version": "0.2.0",
+    "ModID": "tetrominestweaks",
+    "Version": "0.3.0",
     "Description": "",
     "Website": "",
-    "ModID": "tetrominestweaks",
     "Authors": [
         "Tetromine"
     ],
@@ -14,6 +14,7 @@
     "RequiredOnClient": true,
     "RequiredOnServer": true,
     "Dependencies": {
-        "ageofflaxfork": "1.1.3"
+        "ageofflaxfork": "1.1.3",
+        "spinningwheel": "1.2.1"
     }
 }
