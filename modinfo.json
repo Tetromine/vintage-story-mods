@@ -15,6 +15,7 @@
     "RequiredOnServer": true,
     "Dependencies": {
         "ageofflaxfork": "1.1.3",
-        "spinningwheel": "1.2.1"
+        "spinningwheel": "1.2.1",
+        "knitting": "2.0.2"
     }
 }
