@@ -1,6 +1,9 @@
 # Tetromine's Tweaks
 Vintage Story mod that patches both vanilla and some mods for better balance.
 
+## TODO
+Fix balance tweaks to work with the updated Age of Flax Fork 1.1.5!
+
 ## Vanilla
 
 ### Hunter
