@@ -3,7 +3,7 @@
     "TextureSize": 32,
     "Name": "Tetromine's Tweaks",
     "ModID": "tetrominestweaks",
-    "Version": "0.3.0",
+    "Version": "0.4.0",
     "Description": "",
     "Website": "",
     "Authors": [
@@ -15,7 +15,8 @@
     "RequiredOnServer": true,
     "Dependencies": {
         "ageofflaxfork": "1.1.3",
-        "spinningwheel": "1.2.1",
-        "knitting": "2.0.2"
+        "spinningwheel": "1.2.7",
+        "knitting": "2.0.3",
+        "xskillsfork": "1.0.45"
     }
 }

@@ -1,13 +1,15 @@
 # Tetromine's Tweaks
 Vintage Story mod that patches both vanilla and some mods for better balance.
 
-## TODO
-Fix balance tweaks to work with the updated Age of Flax Fork 1.1.5!
-
 ## Vanilla
 
 ### Hunter
 Nerfed **Claustrophobic** (-15% ore drop rate, -10% mining speed) -> (-25% ore drop rate, -20% mining speed)
+
+## XSkills
+
+### Nerfs
+- Gourmet - First level is also Chef exclusive
 
 ## Immersive Fibercraft
 Changes handbook entries for loom and spinning wheel include all methods of spinning twine and creating linen.
@@ -80,4 +82,5 @@ Spinning wheel and loom can only be used by Tailors.
 - On the road - Doubled speed gain
 
 # To-do
-Make more skills exclusive to specializations.
+- Make more skills exclusive to specializations.
+- Fix balance tweaks to work with the updated Age of Flax Fork 1.1.5!

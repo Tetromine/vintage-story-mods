@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/gourmet/requirements/0/minimumTier",
+    "value": 1,
+    "file": "xskills:skills/cooking.json"
+  }
+]
