@@ -54,3 +54,28 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 | ------------- | ------------- | ------------- | ------------- |
 | flaxDropAvg  | 4 | 5 | 6 |
 | flaxDropVar  | 1 | 1 | 1 |
+
+# Config
+
+## Immersive Fibercraft
+Spinning wheel and loom can only be used by Tailors.
+
+## XSkills
+
+### Nerfs
+- Long Life - Halved
+- Meat Shield - Satiation loss is the same as it would be with natural regeneration
+- Blacksmith - Removed (redundant with quenching)
+- Green Thumb - Halved
+- Demeter's Bless - Slightly reduced
+- Gatherer - Slightly reduced
+- Orchadist - Slightly reduced
+- Clay Digger - Halved
+- Peat Cutter - Halved
+- Saltpeter Digger - Halved
+
+### Buffs
+- On the road - Doubled speed gain
+
+# To-do
+Make more skills exclusive to specializations.
