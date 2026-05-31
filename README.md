@@ -73,6 +73,8 @@ Spinning wheel and loom can only be used by Tailors.
 - Clay Digger - Halved
 - Peat Cutter - Halved
 - Saltpeter Digger - Halved
+- Lumberjack - Halved
+- More Ladders! - Halved
 
 ### Buffs
 - On the road - Doubled speed gain
