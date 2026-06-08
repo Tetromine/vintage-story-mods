@@ -1,0 +1,59 @@
+[
+    {
+        "op": "replace",
+        "path": "/1/traits/2",
+        "value": "furtive",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "remove",
+        "path": "/2/traits/2",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "replace",
+        "path": "/2/traits/2",
+        "value": "fleetfooted",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "add",
+        "path": "/2/traits/3",
+        "value": "improviser",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "add",
+        "path": "/2/traits/4",
+        "value": "revolted",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/3/traits/3",
+        "value": "industrialist",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "remove",
+        "path": "/5/traits/2",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "remove",
+        "path": "/5/traits/2",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "replace",
+        "path": "/5/traits/2",
+        "value": "weak",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "add",
+        "path": "/5/traits/3",
+        "value": "revolted",
+        "file": "game:config/characterclasses.json"
+    }
+]

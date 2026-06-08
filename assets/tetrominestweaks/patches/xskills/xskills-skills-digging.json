@@ -1,0 +1,16 @@
+[
+    {
+        "op": "addmerge",
+        "path": "/mixedclay/requirements",
+        "value": [
+            {
+                "code": "ability",
+                "minimumTier": 1,
+                "skill": "digging",
+                "ability": "digger",
+                "requiredTier": 1
+            }
+        ],
+        "file": "xskills:skills/digging.json"
+    }
+]

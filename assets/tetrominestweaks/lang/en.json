@@ -1,6 +1,15 @@
 {
+	"game:trait-industrialist": "<font color=\"#ff8484\">• Industrialist </font>",
+	"game:trait-revolted": "<font color=\"#ff8484\">• Revolted </font>",
+	"game:traitname-revolted": "Revolted",
+	"game:traitname-industrialist": "Industrialist",
+    "game:charattribute-animalLootDropRate-0.2": "+20% animal loot",
     "game:charattribute-miningSpeedMul--0.2": "-20% mining speed",
     "game:charattribute-oreDropRate--0.25": "-25% ore drop rate",
+	"game:charattribute-forageDropRate-0.15": "+15% loot from foraging",
+	"game:charattribute-wildCropDropRate-0.25": "+25% wild crop drop rate",
+    "game:charattribute-miningSpeedMul-0.2": "+20% mining speed",
+	"game:charattribute-animalLootDropRate--0.2": "-20% animal loot",
 
     "spinningwheel:handbook-spinningwheel-title": "Crafting Mechanic: Spinning Twine", 
     "spinningwheel:handbook-spinningwheel-text": "<font size=\"18\" weight=\"bold\">Spinning Twine</font><br><br>Spinning twine can be done using a <a href=\"handbooksearch://drop spindle\">drop spindle</a> or a <a href=\"handbooksearch://Spinning Wheel\">spinning wheel</a>. The drop spindle can be used while traveling, but is slower and requires 4 <a href=\"handbook://item-flaxfibers\">fibers</a> for each <a href=\"handbook://item-flaxtwine\">twine</a>. The spinning wheel is faster and uses 2 fibers for each twine, but it can only be used by Tailors, and requires them to be stationary.<br><br><font size=\"18\" weight=\"bold\">How to Use the Spinning Wheel</font><br><br><strong>1. Place the spinning wheel</strong><br>The spinning wheel is a 2x2x2 multiblock structure. Place it on a flat surface with enough clearance.<br><br><strong>2. Sit down</strong><br>Right-click the spinning wheel to sit at it. Your character will take a seat at the wheel, ready to spin.<br><br><strong>3. Open the crafting menu</strong><br>While seated, right click any part to open the spinning wheel interface. This allows you to load fibers and collect your output.<br><br><strong>4. Add fibers</strong><br>Place spinnable fibers (such as <a href=\"handbooksearch://flax fibers\">flax fibers</a>) into the input slot.<br><br><strong>5. Spin</strong><br>Once seated with fibers loaded, your character will automatically begin spinning. The wheel will turn and fibers will be converted into twine over time.<br><br><strong>6. Collect output</strong><br>Remove the finished twine from the output slot when spinning is complete.", 
@@ -8,5 +17,8 @@
     "spinningwheel:handbook-loom-text": "<font size=\"18\" weight=\"bold\">Creating Linen</font><br><br><a href=\"handbook://item-linen-normal-down\">Linen</a> can be created from <a href=\"handbook://item-flaxtwine\">twine</a> by <a href=\"handbooksearch://Knitting\">knitting</a>. The <a href=\"handbooksearch://Flying Shuttle Loom\">flying shuttle loom</a> is an advanced weaving station that converts twine into linen, only usable by Tailors. Named after its shuttle mechanism that flies back and forth across the warp threads, the loom provides an immersive way to create fabric.<br><br><font size=\"18\" weight=\"bold\">How to Use the Loom</font><br><br><strong>1. Place the loom</strong><br>The loom is a 3x2x2 multiblock structure. Ensure you have adequate space before placing it.<br><br><strong>2. Sit down</strong><br>Right-click the loom to sit at it. Your character will position themselves at the weaving bench.<br><br><strong>3. Open the weaving menu</strong><br>While seated, right click any part to open the loom interface.<br><br><strong>4. Load twine</strong><br>Place flax twine into the input slot.<br><br><strong>5. Weave</strong><br>Once seated with twine loaded, your character will begin weaving. You will see animated shuttle movement as the cloth is produced.<br><br><strong>6. Collect cloth</strong><br>Remove the finished cloth from the output slot.<br><br><font size=\"18\" weight=\"bold\">Tips</font><br>- Knitting uses 4 flax twine for each linen.<br>- Knitting takes 4 seconds per linen, or 3 seconds if sitting.<br>- The flying shuttle loom creates 3 linen from 9 twine at a time.",
 
     "knitting:knitting-need-twine": "Not enough twine in offhand",
-    "knitting:handbook-needles-text": "Can be used to knit 4 <a href=\"handbook://item-flaxtwine\">twine</a> into 1 linen."
+    "knitting:handbook-needles-text": "Can be used to knit 4 <a href=\"handbook://item-flaxtwine\">twine</a> into 1 linen.",
+
+    "xskills:abilitydesc-fastpotter": "You have a chance each time you add or remove clay to instantly finish the pottery piece. The base chance is {0}%, plus 0.{1}% per pottery skill level, up to a maximum of {2}% per step. The chance is lower at first, but increases toward the maximum the further along the work already is.",
+    "xskills:abilitydesc-finishingtouch": "You have a chance for every hit to instantly finish the smithing work. The base chance is {0}%, plus 0.{1}% per metalworking skill level, up to a maximum of {2}% per hit. The chance is lower at first, but increases toward the maximum the further along the work already is."
 }

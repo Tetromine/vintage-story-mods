@@ -103,10 +103,10 @@
       "minLevel": 3,
       "enabled": true,
       "values": [
-        33,
+        15,
         2,
         5,
-        50,
+        30,
         3,
         10
       ]
@@ -158,9 +158,9 @@
       "minLevel": 5,
       "enabled": true,
       "values": [
-        10,
+        25,
         1,
-        30
+        50
       ]
     },
     {
@@ -199,7 +199,7 @@
       "id": 11,
       "maxTier": 1,
       "minLevel": 6,
-      "enabled": true,
+      "enabled": false,
       "values": []
     },
     {
@@ -218,14 +218,18 @@
     {
       "name": "masshusbandry",
       "id": 13,
-      "maxTier": 1,
+      "maxTier": 2,
       "minLevel": 10,
       "enabled": true,
       "values": [
         0,
         1,
         1,
-        30
+        20,
+        0,
+        1,
+        1,
+        40
       ]
     }
   ],

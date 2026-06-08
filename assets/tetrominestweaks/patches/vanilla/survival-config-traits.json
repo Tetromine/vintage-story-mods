@@ -1,14 +1,80 @@
 [
-  {
-    "op": "replace",
-    "path": "/15/attributes/miningSpeedMul",
-    "value": -0.2,
-    "file": "game:config/traits.json"
-  },
-  {
-    "op": "replace",
-    "path": "/15/attributes/oreDropRate",
-    "value": -0.25,
-    "file": "game:config/traits.json"
-  }
+    {
+        "op": "replace",
+        "path": "/1",
+        "value": {
+            "code": "resourceful",
+            "type": "positive",
+            "attributes": {
+            "animalLootDropRate": 0.2,
+            "animalHarvestingTime": -0.25
+            }
+        },
+        "file": "game:config/traits.json"
+    },
+    {
+        "op": "replace",
+        "path": "/15",
+        "value": {
+            code: "claustrophobic",
+            type: "negative",
+            "attributes": {
+            "miningSpeedMul": -0.2,
+            "oreDropRate": -0.25
+            }
+        },
+        "file": "game:config/traits.json"
+    },
+    {
+        "op": "replace",
+        "path": "/4",
+        "value": {
+        "code": "forager",
+        "type": "positive",
+        "attributes": {
+            "forageDropRate": 0.15,
+            "wildCropDropRate": 0.25
+        }
+        },
+        "file": "game:config/traits.json"
+    },
+    {
+        "op": "replace",
+        "path": "/10",
+        "value": {
+        "code": "hardy",
+        "type": "positive",
+        "attributes": {
+            "miningSpeedMul": 0.2,
+            "maxhealthExtraPoints": 5
+        }
+        },
+        "file": "game:config/traits.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/-",
+        "value": {
+        "code": "industrialist",
+        "type": "negative",
+        "attributes": {
+            "forageDropRate": -0.15,
+            "wildCropDropRate": -0.2
+        }
+        },
+        "file": "game:config/traits.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/-",
+        "value": {
+        "code": "revolted",
+        "type": "negative",
+        "attributes": {
+            "animalLootDropRate": -0.2,
+            "animalHarvestingTime": 0.25
+        }
+        },
+        "file": "game:config/traits.json"
+    }
 ]
