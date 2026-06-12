@@ -1,3 +1,29 @@
+# Modlist
+- Tetromine’s Tweaks  
+- [xSkills Fork](https://mods.vintagestory.at/show/mod/44074)  
+  - [xSkills Gilded Fork](https://mods.vintagestory.at/show/mod/32739) 
+  - [xLib Fork](https://mods.vintagestory.at/show/mod/44133)  
+- [Farseer](https://mods.vintagestory.at/show/mod/22371)  
+  - [Algernon's Terrain Sampler Lib](https://mods.vintagestory.at/algernonsterrainsampler)  
+- [Carry On](https://mods.vintagestory.at/carryon)  
+- [Rivers](https://mods.vintagestory.at/rivers)  
+- [Slowtox](https://mods.vintagestory.at/slowtox)  
+- [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork)  
+- [Immersive Fibercraft](https://mods.vintagestory.at/show/mod/34327)  
+- [Knitting](https://mods.vintagestory.at/knitting)  
+- [Billposting](https://mods.vintagestory.at/billposting)  
+- [Sonya’s Quality Fowl](https://mods.vintagestory.at/fowlmod)  
+- [Fair Fish](https://mods.vintagestory.at/fairfish)  
+- [Fishing Config](https://mods.vintagestory.at/fishingconfig)  
+- [Version Checker](https://mods.vintagestory.at/versionchecker)  
+- [PlayerCorpse‑Forked](https://mods.vintagestory.at/playercorpseforked)  
+  - [CommonLib‑Forked](https://mods.vintagestory.at/commonlibforked)  
+- [Optitime](https://mods.vintagestory.at/optitime)  
+- [Tungsten](https://mods.vintagestory.at/tungsten)  
+- [Synergy](https://mods.vintagestory.at/synergy)  
+- [RP Voice Chat](https://mods.vintagestory.at/rpvoicechat)
+
+
 # Tetromine's Tweaks
 Vintage Story mod that patches both vanilla and some mods.
 
