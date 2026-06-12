@@ -59,11 +59,13 @@
     {
       "name": "resinfarmer",
       "id": 3,
-      "maxTier": 1,
+      "maxTier": 3,
       "minLevel": 1,
       "enabled": true,
       "values": [
-        2
+        2,
+        4,
+        6
       ]
     },
     {

@@ -40,6 +40,19 @@
     },
     {
         "op": "replace",
+        "path": "/5",
+        "value": {
+        "code": "pilferer",
+        "type": "positive",
+        "attributes": {
+			"wholeVesselLootChance": 0.3,
+			"vesselContentsDropRate": 0.1
+        }
+        },
+        "file": "game:config/traits.json"
+    },
+    {
+        "op": "replace",
         "path": "/10",
         "value": {
         "code": "hardy",
@@ -73,6 +86,18 @@
         "attributes": {
             "animalLootDropRate": -0.2,
             "animalHarvestingTime": 0.25
+        }
+        },
+        "file": "game:config/traits.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/-",
+        "value": {
+        "code": "meticulous",
+        "type": "positive",
+        "attributes": {
+			"vesselContentsDropRate": 0.3
         }
         },
         "file": "game:config/traits.json"

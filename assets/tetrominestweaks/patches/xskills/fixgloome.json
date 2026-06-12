@@ -1,0 +1,27 @@
+[
+    {
+        "file": "xskills:skills/combat",
+        "op": "replace",
+        "path": "/bloodlust/requirements/1/classes",
+        "value": [
+            "malefactor",
+            "blackguard"
+        ]
+    },
+    {
+        "file": "xskills:skills/metalworking",
+        "op": "replace",
+        "path": "/salvager/requirements/0/requirements/1/classes",
+        "value": [
+            "clockmaker"
+        ]
+    },
+    {
+        "file": "xskills:skills/metalworking",
+        "op": "replace",
+        "path": "/salvager/requirements/2/classes",
+        "value": [
+            "clockmaker"
+        ]
+    }
+]

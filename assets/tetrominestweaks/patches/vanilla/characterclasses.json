@@ -29,9 +29,21 @@
         "file": "game:config/characterclasses.json"
     },
     {
-        "op": "addmerge",
-        "path": "/3/traits/3",
+        "op": "replace",
+        "path": "/3/traits/2",
         "value": "industrialist",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/3/traits/5",
+        "value": "mender",
+        "file": "game:config/characterclasses.json"
+    },
+    {
+        "op": "addmerge",
+        "path": "/3/traits/5",
+        "value": "meticulous",
         "file": "game:config/characterclasses.json"
     },
     {

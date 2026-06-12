@@ -1,0 +1,18 @@
+[
+    {
+        "op": "add",
+        "path": "/resinfarmer",
+        "value": {
+        "requirements": [
+                {
+                    "code": "ability",
+                    "minimumTier": 2,
+                    "skill": "forestry",
+                    "ability": "forester",
+                    "requiredTier": 1
+                }
+            ]
+        },
+        "file": "xskills:skills/forestry.json"
+    }
+]

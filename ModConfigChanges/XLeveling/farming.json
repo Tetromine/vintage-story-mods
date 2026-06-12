@@ -75,7 +75,17 @@
         20,
         15,
         1,
-        40
+        30
+      ],
+      "requirements": [
+        {
+          "type": "ability",
+          "skill": "farming",
+          "ability": "farmer",
+          "requiredTier": 1,
+          "minimumTier": 2,
+          "hideUntilFulfilled": false
+        }
       ]
     },
     {
@@ -184,7 +194,7 @@
       "minLevel": 8,
       "enabled": true,
       "values": [
-        1
+        5
       ]
     },
     {
