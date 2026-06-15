@@ -1,5 +1,5 @@
 # Modlist
-- Tetromine’s Tweaks  
+- [Tetromine’s Tweaks](https://mods.vintagestory.at/tetrominestweaks)  
 - [xSkills Fork](https://mods.vintagestory.at/show/mod/44074)  
   - [xSkills Gilded Fork](https://mods.vintagestory.at/show/mod/32739) 
   - [xLib Fork](https://mods.vintagestory.at/show/mod/44133)  
@@ -22,6 +22,7 @@
 - [Tungsten](https://mods.vintagestory.at/tungsten)  
 - [Synergy](https://mods.vintagestory.at/synergy)  
 - [RP Voice Chat](https://mods.vintagestory.at/rpvoicechat)
+- [BetterHandbook](https://mods.vintagestory.at/show/mod/50652)
 
 
 # Tetromine's Tweaks
@@ -62,6 +63,9 @@ Changes handbook entries for loom and spinning wheel include all methods of spin
 
 ## Knitting
 Tiny tweak to lang files.
+
+## RP Voice Chat
+Fixed lang files of "RP Voice Chat - Starter Guide"
 
 ## Age of Flax Fork
 Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make the values more balanced compared to vanilla.

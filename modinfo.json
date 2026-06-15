@@ -3,7 +3,7 @@
     "TextureSize": 32,
     "Name": "Tetromine's Tweaks",
     "ModID": "tetrominestweaks",
-    "Version": "0.6.0",
+    "Version": "1.0.0",
     "Description": "An assortments of tweaks to vanilla content as well as tweaks to existing mods for Vintage Story.",
     "Website": "https://github.com/Tetromine/vintage-story-mods",
     "Authors": [
@@ -17,6 +17,8 @@
         "ageofflaxfork": "1.1.3",
         "spinningwheel": "1.2.9",
         "knitting": "2.0.3",
-        "xskillsfork": "1.0.61"
+        "xskillsfork": "1.0.61",
+        "rpvoicechat": "2.5.7",
+        "betterhandbook": "1.0.7"
     }
 }
