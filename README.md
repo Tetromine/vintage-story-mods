@@ -77,34 +77,19 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 | flaxDropAvg      | 4       |
 | flaxSeedDropAvg  | 1.2     |
 
-### Ripple drops (before)
+### Ripple drops 
 
 | Value            | Primitive | Simple | Advanced |
 |------------------|-----------|--------|----------|
-| flaxGrainDropAvg | 6         | 8      | 12       |
-| flaxGrainDropVar | 1         | 2      | 2        |
-| flaxSeedDropAvg  | 1.2       | 2.1    | 2.5      |
-
-### Ripple drops (after)
-
-| Value            | Primitive | Simple | Advanced |
-|------------------|-----------|--------|----------|
-| flaxGrainDropAvg | 3         | 4      | 5        |
+| flaxGrainDropAvg | 2         | 3      | 4        |
 | flaxGrainDropVar | 0.5       | 0.5    | 0.5      |
-| flaxSeedDropAvg  | 1.2       | 1.5    | 1.7      |
+| flaxSeedDropAvg  | 1.0       | 1.2    | 1.5      |
 
-### Hatchel drops (before)
-
-| Value       | Primitive | Simple | Advanced |
-|-------------|-----------|--------|----------|
-| flaxDropAvg | 5         | 6      | 8        |
-| flaxDropVar | 2         | 1      | 1        |
-
-### Hatchel drops (after)
+### Hatchel drops
 
 | Value       | Primitive | Simple | Advanced |
 |-------------|-----------|--------|----------|
-| flaxDropAvg | 4         | 5      | 6        |
+| flaxDropAvg | 3         | 4      | 5        |
 | flaxDropVar | 1         | 1      | 1        |
 
 # Config
