@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/attributesByType/ripple-primitive-*/flaxGrainDropAvg",
 		"file": "ageofflax:blocktypes/tool/ripple",
-		"value": 3,
+		"value": 2,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
@@ -12,7 +12,7 @@
 		"op": "replace",
 		"path": "/attributesByType/ripple-simple-*/flaxGrainDropAvg",
 		"file": "ageofflax:blocktypes/tool/ripple",
-		"value": 4,
+		"value": 3,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
@@ -21,7 +21,7 @@
 		"op": "replace",
 		"path": "/attributesByType/ripple-advanced-*/flaxGrainDropAvg",
 		"file": "ageofflax:blocktypes/tool/ripple",
-		"value": 5,
+		"value": 4,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
@@ -30,7 +30,7 @@
 		"op": "replace",
 		"path": "/attributesByType/ripple-primitive-*/flaxSeedDropAvg",
 		"file": "ageofflax:blocktypes/tool/ripple",
-		"value": 1.2,
+		"value": 1.0,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
@@ -39,7 +39,7 @@
 		"op": "replace",
 		"path": "/attributesByType/ripple-simple-*/flaxSeedDropAvg",
 		"file": "ageofflax:blocktypes/tool/ripple",
-		"value": 1.5,
+		"value": 1.2,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
@@ -48,7 +48,7 @@
 		"op": "replace",
 		"path": "/attributesByType/ripple-advanced-*/flaxSeedDropAvg",
 		"file": "ageofflax:blocktypes/tool/ripple",
-		"value": 1.7,
+		"value": 1.5,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
