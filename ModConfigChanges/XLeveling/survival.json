@@ -58,7 +58,7 @@
     {
       "name": "nudist",
       "id": 3,
-      "maxTier": 2,
+      "maxTier": 1,
       "minLevel": 3,
       "enabled": true,
       "values": [
