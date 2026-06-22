@@ -12,5 +12,5 @@
   "configVersion": 8,
   "disableAllClassRequirements": false,
   "deleteDataOnDeath": false,
-  "consumeSkillBookOnStudy": false
+  "consumeSkillBookOnStudy": true
 }
