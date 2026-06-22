@@ -98,11 +98,12 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 Spinning wheel and loom can only be used by Tailors.
 
 ## XSkills
-Books are consumed upon being read.
+Books are consumed upon being read. Forgetting a skill requires 10 Unlearn Points instead of 1.
 
 ### Nerfed Skills
 - Long Life - Halved
 - Meat Shield - Satiation loss is the same as it would be with natural regeneration
+- Nudist - Movement speed and health increase removed, hunger rate decrease increased and temperature resistance reduced.
 - Swordsman - Halved
 - Atcher - Halved
 - Spearman - Halved
