@@ -22,6 +22,7 @@
 - [Synergy](https://mods.vintagestory.at/synergy)  
 - [RP Voice Chat](https://mods.vintagestory.at/rpvoicechat)
 - [BetterHandbook](https://mods.vintagestory.at/show/mod/50652)
+- [Stability Above](https://mods.vintagestory.at/show/mod/49887)
 
 
 # Tetromine's Tweaks
