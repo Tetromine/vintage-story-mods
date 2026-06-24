@@ -136,6 +136,7 @@
     "hunter": 0.15,
     "malefactor": 0.05,
     "clockmaker": 0.2,
+    "tailor": 0.15,
     "miner": -0.15,
     "forager": -0.05,
     "archer": 0.1,

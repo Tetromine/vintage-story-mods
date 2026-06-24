@@ -310,6 +310,7 @@
     "malefactor": 0.15,
     "clockmaker": -0.2,
     "blackguard": -0.05,
+    "tailor": 0.0,
     "miner": -0.05,
     "forager": -0.15,
     "archer": 0.05,

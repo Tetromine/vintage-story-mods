@@ -242,6 +242,7 @@
     "hunter": -0.15,
     "malefactor": -0.15,
     "blackguard": 0.15,
+    "tailor": -0.1,
     "miner": 0.15,
     "archer": -0.1,
     "vanguard": 0.1,
