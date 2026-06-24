@@ -82,7 +82,7 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 
 | Value            | Primitive | Simple | Advanced |
 |------------------|-----------|--------|----------|
-| flaxGrainDropAvg | 2         | 3      | 4        |
+| flaxGrainDropAvg | 2.5       | 3      | 3.5      |
 | flaxGrainDropVar | 0.5       | 0.5    | 0.5      |
 | flaxSeedDropAvg  | 1.0       | 1.2    | 1.5      |
 
@@ -96,7 +96,13 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 # Config
 
 ## Immersive Fibercraft
-Spinning wheel and loom can only be used by Tailors.
+- Spinning wheel and loom can only be used by Tailors. 
+- Increased spinning speed (4.0 s -> 3.0)
+- Decreased spinning efficiency (2 fibers/twine -> 3 fibers/twine)
+- Decreased weaving efficiency (3 twine/linen -> 4 twine/linen)
+
+## Knitting
+Decreased knitting speed (4.0 s -> 6.0 s while standing and 3.0 s -> 4.0 s while sitting)
 
 ## XSkills
 Books are consumed upon being read. Forgetting a skill requires 10 Unlearn Points instead of 1.

@@ -3,7 +3,7 @@
 		"op": "replace",
 		"path": "/attributesByType/hatchel-primitive-*/flaxDropAvg",
 		"file": "ageofflax:blocktypes/tool/hatchel",
-		"value": 3,
+		"value": 3.5,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
@@ -39,7 +39,7 @@
 		"op": "replace",
 		"path": "/attributesByType/hatchel-advanced-*/flaxDropAvg",
 		"file": "ageofflax:blocktypes/tool/hatchel",
-		"value": 5,
+		"value": 4.5,
 		"dependsOn": [
 			{"modid": "ageofflaxfork"}
 		]
