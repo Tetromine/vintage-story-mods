@@ -9,7 +9,7 @@
   "FlaxSpinTime": 3.0,
   "FlaxInputQuantity": 3,
   "FlaxOutputQuantity": 1,
-  "FlaxTwineWeaveInputQuantity": 12,
+  "FlaxTwineWeaveInputQuantity": 10,
   "FlaxTwineWeaveOutputQuantity": 3,
   "WoolTwineWeaveInputQuantity": 9,
   "WoolTwineWeaveOutputQuantity": 3,
