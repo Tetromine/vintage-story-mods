@@ -35,6 +35,16 @@ Vintage Story mod that patches both vanilla and some mods.
 
 ## Vanilla
 
+### Crates
+Buffed storage slots of crates by roughly 50%.
+
+| Wood type           | Vanilla slots | New slots |
+|---------------------|---------------|-----------|
+| Most wood           | 20            | 30        |
+| Aged                | 16            | 24        |
+| Ebony, purpleheart  | 25            | 40        |
+
+
 ### Hunter
 - Nerfed **Claustrophobic** (-15% ore drop rate, -10% mining speed) -> (-25% ore drop rate, -20% mining speed)
 - Replaced **Fleetfooted** (+10% movespeed) with **Furtive** (-35% animal detection range)

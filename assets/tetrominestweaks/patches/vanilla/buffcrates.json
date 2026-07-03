@@ -1,0 +1,26 @@
+[
+	{
+		"file": "game:blocktypes/wood/woodtyped/crate",
+		"op": "replace",
+		"path": "/attributes/properties/*/quantitySlots",
+		"value": 30
+	},
+	{
+		"file": "game:blocktypes/wood/woodtyped/crate",
+		"op": "replace",
+		"path": "/attributes/properties/wood-aged/quantitySlots",
+		"value": 24
+	},
+	{
+		"file": "game:blocktypes/wood/woodtyped/crate",
+		"op": "replace",
+		"path": "/attributes/properties/wood-ebony/quantitySlots",
+		"value": 40
+	},
+	{
+		"file": "game:blocktypes/wood/woodtyped/crate",
+		"op": "replace",
+		"path": "/attributes/properties/wood-purpleheart/quantitySlots",
+		"value": 40
+	}
+]
