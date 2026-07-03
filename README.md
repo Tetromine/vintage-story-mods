@@ -23,6 +23,11 @@
 - [RP Voice Chat](https://mods.vintagestory.at/rpvoicechat)
 - [BetterHandbook](https://mods.vintagestory.at/show/mod/50652)
 - [Stability Above](https://mods.vintagestory.at/show/mod/49887)
+- [Tabletop Games](https://mods.vintagestory.at/show/mod/4342)
+  - [Attribute Rendering Library](https://mods.vintagestory.at/show/mod/26831)
+- [Emotes](https://mods.vintagestory.at/show/mod/47177)
+- [Crateful](https://mods.vintagestory.at/crateful)
+- [Sorting Containers](https://mods.vintagestory.at/sortingcontainers)
 
 
 # Tetromine's Tweaks
@@ -95,9 +100,12 @@ Patches [Age of Flax Fork](https://mods.vintagestory.at/ageofflaxfork) to make t
 
 # Config
 
+## Carry On
+Disabled back slot, as it allows you to carry more with no downside.
+
 ## Immersive Fibercraft
 - Spinning wheel and loom can only be used by Tailors. 
-- Increased spinning speed (4.0 s -> 3.0)
+- Increased spinning speed (4.0 s -> 3.0 s)
 - Decreased spinning efficiency (2 fibers/twine -> 3 fibers/twine)
 - Decreased weaving efficiency (3 twine/linen -> 4 twine/linen)
 
@@ -112,7 +120,7 @@ Books are consumed upon being read. Forgetting a skill requires 10 Unlearn Point
 - Meat Shield - Satiation loss is the same as it would be with natural regeneration
 - Nudist - Movement speed and health increase removed, hunger rate decrease increased and temperature resistance reduced.
 - Swordsman - Halved
-- Atcher - Halved
+- Archer - Halved
 - Spearman - Halved
 - Tool Mastery - Slightly reduced
 - Iron Fist - Reduced
