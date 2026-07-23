@@ -35,6 +35,9 @@ Vintage Story mod that patches both vanilla and some mods.
 
 ## Vanilla
 
+### Cheese
+Buffed both cheddar and blue cheese to 400 sat per slice (previously 240 and 200 sat per slice respectively).
+
 ### Crates
 Buffed storage slots of crates by roughly 50%.
 

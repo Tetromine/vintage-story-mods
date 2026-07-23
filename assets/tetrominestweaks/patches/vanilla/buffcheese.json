@@ -1,0 +1,30 @@
+[
+  {
+    "op": "replace",
+    "path": "/nutritionPropsByType/*-blue-1slice/satiety",
+    "value": 400,
+    "file": "game:itemtypes/food/cheese.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/nutritionPropsByType/*-cheddar-1slice/satiety",
+    "value": 400,
+    "file": "game:itemtypes/food/cheese.json",
+    "side": "Server"
+  },
+  {
+    "file": "game:itemtypes/food/cheese",
+    "op": "addmerge",
+    "path": "/attributes",
+    "value": {
+      "nutritionPropsWhenInMeal": {
+        "satietyByType": { 
+          "*-blue-1slice": 400, 
+          "*-cheddar-1slice": 400
+        },
+        "foodcategory": "Dairy"
+      }
+    }
+  }
+]
