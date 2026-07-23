@@ -155,7 +155,9 @@ Books are consumed upon being read. Forgetting a skill requires 10 Unlearn Point
 - Mass Husbandry - First level nerfed, but added second level
 - Bit Smithing - Removed (makes it more tedious to be optimal)
 - Blacksmith - Removed (redundant with quenching)
+- Bloomery Expert - No second level
 - Master Smith - Slight nerf to range
+- Juicer - Reduced
 
 ### Buffed Skills
 - On the road - Doubled speed gain
